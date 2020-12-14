@@ -1,6 +1,6 @@
 # Pandas Training
 
-Pandas lectures for begineers
+Pandas lectures for begineers 
 
 ## Chapters
 
@@ -13,5 +13,5 @@ Pandas lectures for begineers
 | 5         | 第 5 章：計算 | [Link](https://github.com/yatingAnne/pandas_training/blob/main/Chapter%205%20-%20Calculating_turbofan.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yatingAnne/pandas_training/blob/main/Chapter%205%20-%20Calculating_turbofan.ipynb) |
 | 6         | 第 6 章：修改資料 | [Link](https://github.com/yatingAnne/pandas_training/blob/main/Chapter%206%20-%20Modifying%20DataFrame_turbofan.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yatingAnne/pandas_training/blob/main/Chapter%206%20-%20Modifying%20DataFrame_turbofan.ipynb) |
 | 7         | 第 7 章：結合資料 | [Link](https://github.com/yatingAnne/pandas_training/blob/main/Chapter%207%20-%20Combining_turbofan.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yatingAnne/pandas_training/blob/main/Chapter%207%20-%20Combining_turbofan.ipynb) |
-| 8         | 第 8 章：匯出資料 | [Link](https://github.com/VioletVivirand/python-101/blob/main/notebooks/Chapter%208/Python%20Basics%20-%20Chapter%208%20-%20Miscellaneous.ipynb)                     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VioletVivirand/python-101/blob/main/notebooks/Chapter%208/Python%20Basics%20-%20Chapter%208%20-%20Miscellaneous.ipynb) |
-| 9         | 範例資料前處理說明 | [Link](https://github.com/VioletVivirand/python-101/blob/main/notebooks/Chapter%208/Python%20Basics%20-%20Chapter%208%20-%20Miscellaneous.ipynb)                     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VioletVivirand/python-101/blob/main/notebooks/Chapter%208/Python%20Basics%20-%20Chapter%208%20-%20Miscellaneous.ipynb)                     |
+| 8         | 第 8 章：匯出資料 | [Link](https://github.com/yatingAnne/pandas_training/blob/main/Chapter%208%20-%20Saving%20and%20Loading%20Data_turbofan.ipynb)                     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yatingAnne/pandas_training/blob/main/Chapter%208%20-%20Saving%20and%20Loading%20Data_turbofan.ipynb) |
+| 9         | 範例資料前處理說明 | [Link](https://github.com/yatingAnne/pandas_training/blob/main/preprocessing_turbofan.ipynb)                     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yatingAnne/pandas_training/blob/main/preprocessing_turbofan.ipynb)                     |
