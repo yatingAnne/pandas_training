@@ -1,6 +1,6 @@
 # Pandas Training
 
-Pandas lectures for begineers
+Pandas lectures for begineers 
 
 ## Chapters
 
